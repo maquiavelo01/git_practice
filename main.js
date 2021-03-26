@@ -14,7 +14,7 @@ const mockUpStrand = () => {
 };
 
 
-mockUpStrand()
+console.log(mockUpStrand())
 
 
 
