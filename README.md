@@ -9,7 +9,7 @@ Hello Git and GitHub
 
 ## start coding
 
-- git checkout -b <new branch name>
-- git add <file>
-- git commit -m <mensaje>
-- git push origin <branch>
+- git checkout -b [new branch name]
+- git add [file]
+- git commit -m "mensaje"
+- git push origin [branch]
